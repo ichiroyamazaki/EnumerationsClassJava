@@ -1,0 +1,2 @@
+# EnumerationsClassJava
+Based on Java
